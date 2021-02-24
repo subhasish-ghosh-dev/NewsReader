@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+    <string name="title_activity_main">Trending News : Select Category</string>
+    <string name="computer_world">Computer World</string>
+    <string name="sports_world">Sports World</string>
+    <string name="Styles_fashion">Fashion World</string>
+    <string name="copyright">Copyright 2021 by, Santosoftvw.com</string>
+</resources>
